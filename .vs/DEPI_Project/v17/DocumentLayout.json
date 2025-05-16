@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\employee\\formemppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\employee\\formemppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\employee\\detailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\employee\\detailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\task\\emptask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\task\\emptask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\repositories\\taskrepo\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\repositories\\taskrepo\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\repositories\\taskrepo\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\repositories\\taskrepo\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\repositories\\projectrepo\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\repositories\\projectrepo\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\shared\\_emplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\shared\\_emplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\task\\formtaskpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\task\\formtaskpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\project\\formpropartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\project\\formpropartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\project\\getprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\project\\getprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\holiday\\indexemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\holiday\\indexemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\controllers\\dashboardemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\controllers\\dashboardemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\dashboardemployee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\dashboardemployee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\views\\employee\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\views\\employee\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\models\\corpmgmt_system\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\models\\corpmgmt_system\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\models\\view model\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\models\\view model\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|d:\\hrms_projectfinal\\hrms_project-master\\depi_project\\models\\corpmgmt_system\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1183469C-D1E1-4621-AF2F-F6EAF84F4AB7}|DEPI_Project\\DEPI_Project.csproj|solutionrelative:depi_project\\models\\corpmgmt_system\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Program.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Program.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Program.cs",
+              "RelativeToolTip": "DEPI_Project\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:20:32.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:16:45.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:10:01.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEmpPartial.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\FormEmpPartial.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Employee\\FormEmpPartial.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\FormEmpPartial.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Employee\\FormEmpPartial.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:09:45.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailsPartial.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\DetailsPartial.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Employee\\DetailsPartial.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\DetailsPartial.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Employee\\DetailsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:09:41.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Repositories\\TaskRepo\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Repositories\\TaskRepo\\ITaskRepository.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Repositories\\TaskRepo\\ITaskRepository.cs",
+              "RelativeToolTip": "DEPI_Project\\Repositories\\TaskRepo\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:03:43.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Repositories\\TaskRepo\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Repositories\\TaskRepo\\TaskRepository.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Repositories\\TaskRepo\\TaskRepository.cs",
+              "RelativeToolTip": "DEPI_Project\\Repositories\\TaskRepo\\TaskRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswD4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:59:47.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpTask.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Task\\EmpTask.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Task\\EmpTask.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Task\\EmpTask.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Task\\EmpTask.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:51:09.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Task\\Index.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Task\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:49:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Project\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Project\\Edit.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Project\\Edit.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Project\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:43:24.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IndexEmp.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Holiday\\IndexEmp.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Holiday\\IndexEmp.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Holiday\\IndexEmp.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Holiday\\IndexEmp.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:35:07.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetProjects.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Project\\GetProjects.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Project\\GetProjects.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Project\\GetProjects.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Project\\GetProjects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:34:20.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Repositories\\ProjectRepo\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Repositories\\ProjectRepo\\ProjectRepository.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Repositories\\ProjectRepo\\ProjectRepository.cs",
+              "RelativeToolTip": "DEPI_Project\\Repositories\\ProjectRepo\\ProjectRepository.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwHwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:28:09.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "DEPI_Project\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwDMBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:25:29.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardEmployeeController.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Controllers\\DashboardEmployeeController.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Controllers\\DashboardEmployeeController.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Controllers\\DashboardEmployeeController.cs",
+              "RelativeToolTip": "DEPI_Project\\Controllers\\DashboardEmployeeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:13:07.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "DEPI_Project\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwJgBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:13:05.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\DashboardEmployee\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\DashboardEmployee\\Index.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\DashboardEmployee\\Index.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\DashboardEmployee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:13:00.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\Profile.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Employee\\Profile.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Employee\\Profile.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Employee\\Profile.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:11:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Models\\View Model\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Models\\View Model\\TaskViewModel.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Models\\View Model\\TaskViewModel.cs",
+              "RelativeToolTip": "DEPI_Project\\Models\\View Model\\TaskViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:55:14.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Models\\CorpMgmt_System\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Models\\CorpMgmt_System\\ProjectTask.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Models\\CorpMgmt_System\\ProjectTask.cs",
+              "RelativeToolTip": "DEPI_Project\\Models\\CorpMgmt_System\\ProjectTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:53:07.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "DEPI_Project\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAwwAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:50:21.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormProPartial.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Project\\FormProPartial.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Project\\FormProPartial.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Project\\FormProPartial.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Project\\FormProPartial.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:48:13.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormTaskPartial.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Task\\FormTaskPartial.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Task\\FormTaskPartial.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Task\\FormTaskPartial.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Task\\FormTaskPartial.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:47:57.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Models\\CorpMgmt_System\\Project.cs",
+              "RelativeDocumentMoniker": "DEPI_Project\\Models\\CorpMgmt_System\\Project.cs",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Models\\CorpMgmt_System\\Project.cs",
+              "RelativeToolTip": "DEPI_Project\\Models\\CorpMgmt_System\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:47:19.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_EmpLayout.cshtml",
+              "DocumentMoniker": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Shared\\_EmpLayout.cshtml",
+              "RelativeDocumentMoniker": "DEPI_Project\\Views\\Shared\\_EmpLayout.cshtml",
+              "ToolTip": "D:\\HRMS_ProjectFinal\\HRMS_Project-master\\DEPI_Project\\Views\\Shared\\_EmpLayout.cshtml",
+              "RelativeToolTip": "DEPI_Project\\Views\\Shared\\_EmpLayout.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T06:42:10.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
