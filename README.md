@@ -158,11 +158,11 @@ The HRMS Project incorporates robust **authentication** and **authorization** me
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/basmallasaid/HRMS_Project.git
+   git clone https://github.com/hudaqasem/DEPI_HRMS.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd HRMS_Project
+   cd DEPI_HRMS
    ```
 3. Set up the database:
    - Create a new database in SQL Server.
